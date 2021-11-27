@@ -1,6 +1,6 @@
 # React App Base
 
-React App Base gives you a structure to build a react-app and saves your starting time.\
+React App Base gives you a structure to build a react-app and saves your time.\
 Instead of using `npx create-react-app` you can download it as zip file and start your coding.\
 Need not to delete all the initial react files and confuse about starting yarn errors.\
 This app uses node-sass instead of dart-sass.\
